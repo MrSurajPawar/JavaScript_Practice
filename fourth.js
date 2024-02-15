@@ -7,7 +7,7 @@ const arr3 = new Array ("ABC" , 2, "XYZ" , 5);  //not recommended practice but t
 
 for(let i in arr1){
     console.log(arr1[i]);
-
+}
 
 for(let i in arr2){
     console.log(arr2[i]);
