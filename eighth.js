@@ -29,4 +29,4 @@ let firstHeading = document.createElement("h1");
 firstHeading.innerHTML = "<i>This is first heading created using js properties</i>";
 document.body.before(firstHeading);
 
-document.querySelector(".btn").remove();
+document.querySelector(".btn").remove()
